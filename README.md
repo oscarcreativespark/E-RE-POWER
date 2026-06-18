@@ -10,5 +10,4 @@ You will also find four documentary-style videos that capture stories, experienc
 
 All materials are freely available to use, adapt, and share. This repository is intended to support learning, replication, and collaboration across different contexts, contributing to more sustainable and circular communities.
 
-CC BY-NC-SA
-This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only ifattribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under the same or a compatible license. 
+<a href="https://github.com/oscarcreativespark/E-RE-POWER">RE-POWER Toolkit</a> © 2026 by <a href="https://creativespark.ie/repower.html">RE-POWER partners</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
