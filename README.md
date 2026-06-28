@@ -6,7 +6,7 @@ RE-POWER: Right to Repair through Citizen Empowerment.  This repository shares t
 
 It includes a ready-to-use Repair Café Toolkit for educators, makers, and community groups interested in starting or strengthening local repair initiatives. The toolkit offers clear guidance, adaptable resources, and tested approaches developed through real-world practice.
 
-You will also find four documentary-style videos that capture stories, experiences, and insights from the project, highlighting the social and environmental impact of repair culture.
+You will also find four documentary-style videos that capture stories, experiences, and insights from the project, highlighting the social and environmental impact of repair culture. <a href="https://youtube.com/playlist?list=PLAxd75WSm8g4&si=7vLLjxVKqKw9eF1L">Follow this Youtube link to watch them</a>
 
 All materials are freely available to use, adapt, and share. This repository is intended to support learning, replication, and collaboration across different contexts, contributing to more sustainable and circular communities.
 
